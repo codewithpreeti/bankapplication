@@ -1,0 +1,1286 @@
+INFO - 2025-09-06 04:55:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 04:55:08 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 04:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 04:58:19 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 04:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 04:58:36 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:16:52 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:17:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:17:07 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:19:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:19:16 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:19:38 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:22:10 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:23:24 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:23:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:23:53 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:24:08 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:30:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:30:40 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:31:23 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:33:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:33:13 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:33:44 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:35:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:35:02 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:35:50 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:37:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:37:51 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:38:26 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:39:38 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:40:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:40:24 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:41:01 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:41:47 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:44:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:44:37 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 05:45:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 05:45:34 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 06:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 06:30:56 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 06:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 06:33:50 --> CSRF token verified.
+INFO - 2025-09-06 06:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 06:33:50 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 06:33:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 06:33:55 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 06:35:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 06:35:26 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 06:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 06:38:50 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 06:40:00 --> CSRF token verified.
+INFO - 2025-09-06 06:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 06:40:00 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2025-09-06 06:58:21 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify()
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before()
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run()
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 06:58:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 06:58:23 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 06:58:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 06:58:24 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 06:58:30 --> CSRF token verified.
+INFO - 2025-09-06 06:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 06:58:30 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2025-09-06 06:59:54 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify()
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before()
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run()
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 06:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 06:59:55 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 06:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 06:59:56 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 07:00:01 --> CSRF token verified.
+INFO - 2025-09-06 07:00:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 07:00:01 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 07:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 07:01:09 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 07:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 07:01:10 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 07:01:17 --> CSRF token verified.
+INFO - 2025-09-06 07:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 07:01:17 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 07:01:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 07:01:19 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 07:01:25 --> CSRF token verified.
+INFO - 2025-09-06 07:01:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 07:01:25 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 07:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 07:01:27 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 07:02:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 07:02:46 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 07:02:50 --> CSRF token verified.
+INFO - 2025-09-06 07:02:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 07:02:50 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 07:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 07:06:10 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 07:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 07:06:12 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 07:06:17 --> CSRF token verified.
+INFO - 2025-09-06 07:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 07:06:17 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 08:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 08:40:32 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 08:40:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 08:40:33 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 08:47:34 --> CSRF token verified.
+INFO - 2025-09-06 08:47:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 08:47:34 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 08:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 08:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 08:49:16 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 08:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 08:49:17 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 08:50:13 --> CSRF token verified.
+INFO - 2025-09-06 08:50:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 08:50:13 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 08:50:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 09:03:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 09:03:49 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 10:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 10:08:17 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 10:09:21 --> CSRF token verified.
+INFO - 2025-09-06 10:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 10:09:21 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 11:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 11:36:13 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 11:36:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 11:36:14 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 13:28:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 13:28:35 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 13:29:43 --> CSRF token verified.
+INFO - 2025-09-06 13:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 14:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 14:46:41 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 14:46:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 14:46:42 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 14:48:32 --> CSRF token verified.
+INFO - 2025-09-06 14:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 14:49:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 14:49:25 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 14:49:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 14:49:27 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 14:56:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 14:56:57 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 14:58:05 --> CSRF token verified.
+INFO - 2025-09-06 14:58:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 15:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 15:01:26 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 15:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 15:01:27 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 15:02:10 --> CSRF token verified.
+INFO - 2025-09-06 15:02:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 15:02:10 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 15:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 15:04:21 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 15:04:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 15:04:22 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 15:05:30 --> CSRF token verified.
+INFO - 2025-09-06 15:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 16:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 16:21:06 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 16:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 16:21:07 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 16:22:24 --> CSRF token verified.
+INFO - 2025-09-06 16:22:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 16:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 16:24:20 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 16:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 16:24:21 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 16:25:33 --> CSRF token verified.
+INFO - 2025-09-06 16:25:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 16:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 16:29:03 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 16:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 16:29:04 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 16:30:04 --> CSRF token verified.
+INFO - 2025-09-06 16:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 16:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 16:33:17 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 16:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 16:33:19 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 16:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 16:35:46 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 16:36:45 --> CSRF token verified.
+INFO - 2025-09-06 16:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 16:38:35 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify()
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before()
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run()
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 16:38:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 16:38:36 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 16:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 16:38:38 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 16:39:39 --> CSRF token verified.
+INFO - 2025-09-06 16:39:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 16:59:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 16:59:59 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 17:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 17:00:00 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 17:01:08 --> CSRF token verified.
+INFO - 2025-09-06 17:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 17:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 17:02:33 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 17:03:28 --> CSRF token verified.
+INFO - 2025-09-06 17:03:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 17:04:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 17:04:48 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 17:06:06 --> CSRF token verified.
+INFO - 2025-09-06 17:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 17:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 17:15:49 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+INFO - 2025-09-06 17:16:43 --> CSRF token verified.
+INFO - 2025-09-06 17:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-09-06 17:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-09-06 17:17:59 --> Trying to access array offset on value of type null
+in SYSTEMPATH/Debug/Toolbar.php on line 197.
+ 1 SYSTEMPATH/Debug/Toolbar.php(197): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Debug/Toolbar.php(180): CodeIgniter\Debug\Toolbar->renderTimelineRecursive()
+ 3 SYSTEMPATH/Debug/Toolbar/Views/toolbar.tpl.php(102): CodeIgniter\Debug\Toolbar->renderTimeline()
+ 4 SYSTEMPATH/Debug/Toolbar.php(513): include('/var/www/html/finalbnk/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php')
+ 5 SYSTEMPATH/Debug/Toolbar.php(476): CodeIgniter\Debug\Toolbar->format()
+ 6 APPPATH/Config/Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 7 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 8 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')

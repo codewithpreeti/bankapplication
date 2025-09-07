@@ -1,0 +1,29 @@
+
+
+.aa{
+
+
+    /* content: center; */
+
+    /* border:2px solid red;  */
+    /* border-collapse:collapse;    */
+    margin-left: auto;
+    margin-right: auto;
+    /* padding:10px;
+    color:red;  */
+    font-weight:normal;
+    text-align: center;
+    margin-top :50px;
+
+    width: 500px;
+    border: 2px solid blue;
+    padding: 50px;
+
+
+}
+
+.all:after {
+    content:" *";
+    color: red;
+}
+

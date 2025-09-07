@@ -1,0 +1,7 @@
+CRITICAL - 2023-12-21 18:09:50 --> Call to a member function getCompiledSelect() on bool
+in APPPATH/Controllers/Home.php on line 33.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')

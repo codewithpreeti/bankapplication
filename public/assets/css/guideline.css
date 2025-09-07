@@ -1,0 +1,43 @@
+.container_box {
+    width: 53%;
+    /*background-color: #fffdfd;*/
+    background-color: #f5f5f5;
+    height: 60%;
+    margin: auto;
+    margin-top: 4% !important;
+    border: 1px solid #f5f5f5;
+    padding: 50px;
+    /* Removed flex here to stack elements vertically */
+    text-align: center; /* for horizontal centering of inline elements like <img> */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+img {
+    margin-top: 2px; /* 2px gap from top */
+    display: inline-block; /* allow it to honor text-align center */
+}
+
+.test {
+    /*display: block;*/
+    background-color: red;
+}
+
+p {
+    line-height: 50px;
+}
+
+.content {
+    text-align: justify;
+    margin-top: 20px;
+    color: #333; /* Darker text for readability */
+    font-family: "Segoe UI", sans-serif; /* Clean font (optional) */
+    line-height: 1.6;
+}
+
+#submit_btn {
+    color: white;
+    background-color: #0d6efd;
+    padding: 8px;
+    border-radius: 3px;
+    margin-right: 92%;
+}

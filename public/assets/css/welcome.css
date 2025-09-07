@@ -1,0 +1,23 @@
+
+.regis_box{
+    width: 55%;
+    background-color: floralwhite;
+    height: 55%;
+    border-color: #222222;
+    margin:auto;
+    padding: 10px;
+    margin-top: 10%;
+}
+.blink {
+    animation: blinker 4s linear infinite;
+    font-size: 35px;
+    background: blue;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}

@@ -1,0 +1,141 @@
+CRITICAL - 2023-12-31 08:44:36 --> Call to a member function save_registration() on null
+in APPPATH/Controllers/Home.php on line 43.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 08:44:59 --> Call to a member function save_registration() on null
+in APPPATH/Controllers/Home.php on line 43.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 08:45:28 --> Class "App\Models\Register_model" not found
+in APPPATH/Controllers/Home.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 08:50:22 --> Array to string conversion
+in APPPATH/Models/Register_model.php on line 18.
+ 1 APPPATH/Models/Register_model.php(18): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(43): App\Models\Register_model->save_registration()
+ 3 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 4 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 08:50:48 --> Class "App\Models\Register_model" not found
+in APPPATH/Controllers/Home.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 08:51:11 --> Class "App\Models\Register_model" not found
+in APPPATH/Controllers/Home.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 08:51:21 --> Array to string conversion
+in APPPATH/Models/Register_model.php on line 18.
+ 1 APPPATH/Models/Register_model.php(18): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(43): App\Models\Register_model->save_registration()
+ 3 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 4 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 11:54:40 --> Call to a member function table() on null
+in APPPATH/Models/Register_model.php on line 22.
+ 1 APPPATH/Controllers/Home.php(43): App\Models\Register_model->save_registration()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 11:59:56 --> Class "Config\Database" not found
+in SYSTEMPATH/Debug/Toolbar/Collectors/Database.php on line 257.
+ 1 SYSTEMPATH/Debug/Toolbar/Collectors/Database.php(73): CodeIgniter\Debug\Toolbar\Collectors\Database->getConnections()
+ 2 SYSTEMPATH/Debug/Toolbar.php(65): CodeIgniter\Debug\Toolbar\Collectors\Database->__construct()
+ 3 SYSTEMPATH/Config/Services.php(779): CodeIgniter\Debug\Toolbar->__construct()
+ 4 SYSTEMPATH/Config/BaseService.php(258): CodeIgniter\Config\Services::toolbar()
+ 5 SYSTEMPATH/Config/BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic()
+ 6 SYSTEMPATH/Config/Services.php(774): CodeIgniter\Config\BaseService::getSharedInstance()
+ 7 SYSTEMPATH/Config/BaseService.php(258): CodeIgniter\Config\Services::toolbar()
+ 8 APPPATH/Config/Events.php(47): CodeIgniter\Config\BaseService::__callStatic()
+ 9 SYSTEMPATH/Events/Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+10 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\Events\Events::trigger()
+11 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+12 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 12:19:29 --> Call to undefined function App\Models\where()
+in APPPATH/Models/Register_model.php on line 24.
+ 1 APPPATH/Controllers/Home.php(43): App\Models\Register_model->save_registration()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 12:20:12 --> Call to undefined function App\Models\select()
+in APPPATH/Models/Register_model.php on line 24.
+ 1 APPPATH/Controllers/Home.php(43): App\Models\Register_model->save_registration()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 16:13:20 --> Undefined property: stdClass::$fullname
+in APPPATH/Models/Register_model.php on line 27.
+ 1 APPPATH/Models/Register_model.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(43): App\Models\Register_model->save_registration()
+ 3 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 4 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 16:16:15 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getRowArray()
+in APPPATH/Models/Register_model.php on line 24.
+ 1 APPPATH/Controllers/Home.php(43): App\Models\Register_model->save_registration()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 16:28:54 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getRowArray()
+in APPPATH/Models/Register_model.php on line 24.
+ 1 APPPATH/Controllers/Home.php(43): App\Models\Register_model->save_registration()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 16:32:48 --> Call to a member function select() on bool
+in APPPATH/Models/Register_model.php on line 51.
+ 1 APPPATH/Controllers/Home.php(43): App\Models\Register_model->save_registration()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 16:43:23 --> Call to a member function getLastQuery() on bool
+in APPPATH/Models/Register_model.php on line 35.
+ 1 APPPATH/Controllers/Home.php(43): App\Models\Register_model->save_registration()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
+CRITICAL - 2023-12-31 17:08:52 --> Call to a member function get() on bool
+in APPPATH/Models/Register_model.php on line 35.
+ 1 APPPATH/Controllers/Home.php(43): App\Models\Register_model->save_registration()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Home->registration()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/var/www/html/finalbnk/public/index.php')
